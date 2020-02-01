@@ -1,0 +1,12 @@
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\bin\Debug\LabbAsignment2.exe.config
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\bin\Debug\LabbAsignment2.exe
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\bin\Debug\LabbAsignment2.pdb
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\bin\Debug\EntityFramework.dll
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\bin\Debug\EntityFramework.xml
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\obj\Debug\LabbAsignment2.csprojAssemblyReference.cache
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\obj\Debug\LabbAsignment2.csproj.CoreCompileInputs.cache
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\obj\Debug\LabbAsignment2.csproj.CopyComplete
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\obj\Debug\LabbAsignment2.exe
+C:\Users\Dator\Desktop\LabbAsignment2\LabbAsignment2\obj\Debug\LabbAsignment2.pdb
